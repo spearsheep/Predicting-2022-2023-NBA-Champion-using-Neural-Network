@@ -1,0 +1,28 @@
+team_id,season_year,team_city,team_name,team_abbreviation,team_conference,team_division,team_code,team_slug,w,l,pct,conf_rank,div_rank,min_year,max_year,league_id,season_id,pts_rank,pts_pg,reb_rank,reb_pg,ast_rank,ast_pg,opp_pts_rank,opp_pts_pg
+1610612737,2022-23,Atlanta,Hawks,ATL,East,Southeast,hawks,hawks,32,32,0.5,8,2,1949,2022,00,22022,7,117.0,12,43.7,20,24.6,21,116.9
+1610612738,2022-23,Boston,Celtics,BOS,East,Atlantic,celtics,celtics,45,20,0.692,2,1,1946,2022,00,22022,4,117.7,6,45.2,7,26.3,9,112.4
+1610612739,2022-23,Cleveland,Cavaliers,CLE,East,Central,cavaliers,cavaliers,40,26,0.606,4,2,1970,2022,00,22022,25,112.0,23,41.7,18,24.9,1,106.4
+1610612740,2022-23,New Orleans,Pelicans,NOP,West,Southwest,pelicans,pelicans,31,33,0.484,9,3,2002,2022,00,22022,16,114.2,14,43.7,11,25.5,16,113.4
+1610612741,2022-23,Chicago,Bulls,CHI,East,Central,bulls,bulls,29,36,0.446,12,4,1966,2022,00,22022,20,113.0,21,42.6,22,24.1,11,112.7
+1610612742,2022-23,Dallas,Mavericks,DAL,West,Southwest,mavericks,mavericks,33,32,0.508,7,2,1980,2022,00,22022,17,114.0,30,38.5,29,22.4,14,113.2
+1610612743,2022-23,Denver,Nuggets,DEN,West,Northwest,nuggets,nuggets,45,19,0.703,1,1,1976,2022,00,22022,5,117.1,16,43.2,2,29.3,10,112.6
+1610612744,2022-23,Golden State,Warriors,GSW,West,Pacific,warriors,warriors,34,31,0.523,5,3,1946,2022,00,22022,3,118.0,9,44.2,1,29.6,22,117.1
+1610612745,2022-23,Houston,Rockets,HOU,West,Southwest,rockets,rockets,15,49,0.234,15,5,1967,2022,00,22022,29,110.3,4,46.4,28,22.7,27,118.2
+1610612746,2022-23,LA,Clippers,LAC,West,Pacific,clippers,clippers,34,33,0.507,8,4,1970,2022,00,22022,22,112.7,15,43.4,25,23.2,13,113.0
+1610612747,2022-23,Los Angeles,Lakers,LAL,West,Pacific,lakers,lakers,31,34,0.477,11,5,1948,2022,00,22022,8,116.7,5,45.7,14,25.2,25,117.6
+1610612748,2022-23,Miami,Heat,MIA,East,Southeast,heat,heat,34,31,0.523,7,1,1988,2022,00,22022,30,108.1,26,41.2,23,23.4,2,108.8
+1610612749,2022-23,Milwaukee,Bucks,MIL,East,Central,bucks,bucks,46,18,0.719,1,1,1968,2022,00,22022,11,115.6,1,49.1,15,25.0,5,111.5
+1610612750,2022-23,Minnesota,Timberwolves,MIN,West,Northwest,timberwolves,timberwolves,34,32,0.515,6,2,1989,2022,00,22022,10,115.6,24,41.6,9,25.5,18,115.6
+1610612751,2022-23,Brooklyn,Nets,BKN,East,Atlantic,nets,nets,36,28,0.563,6,4,1976,2022,00,22022,18,113.5,29,40.3,10,25.5,12,112.9
+1610612752,2022-23,New York,Knicks,NYK,East,Atlantic,knicks,knicks,39,27,0.591,5,3,1946,2022,00,22022,12,115.5,3,46.9,30,22.3,8,112.4
+1610612753,2022-23,Orlando,Magic,ORL,East,Southeast,magic,magic,27,38,0.415,13,4,1989,2022,00,22022,28,111.0,18,42.9,26,22.7,17,113.7
+1610612754,2022-23,Indiana,Pacers,IND,East,Central,pacers,pacers,29,36,0.446,11,3,1976,2022,00,22022,13,115.0,25,41.4,6,26.6,24,117.4
+1610612755,2022-23,Philadelphia,76ers,PHI,East,Atlantic,sixers,sixers,41,22,0.651,3,2,1949,2022,00,22022,15,114.5,28,40.4,17,24.9,3,110.7
+1610612756,2022-23,Phoenix,Suns,PHX,West,Pacific,suns,suns,36,29,0.554,4,2,1968,2022,00,22022,20,113.0,9,44.2,3,27.1,4,111.1
+1610612757,2022-23,Portland,Trail Blazers,POR,West,Northwest,blazers,blazers,30,34,0.469,13,5,1970,2022,00,22022,14,115.0,27,41.2,21,24.1,19,115.8
+1610612758,2022-23,Sacramento,Kings,SAC,West,Pacific,kings,kings,37,26,0.587,3,1,1948,2022,00,22022,1,121.1,22,42.2,4,27.0,28,118.5
+1610612759,2022-23,San Antonio,Spurs,SAS,West,Southwest,spurs,spurs,16,49,0.246,14,4,1976,2022,00,22022,24,112.1,17,43.0,5,26.8,30,122.3
+1610612760,2022-23,Oklahoma City,Thunder,OKC,West,Northwest,thunder,thunder,30,34,0.469,12,4,1967,2022,00,22022,2,118.2,13,43.7,19,24.9,20,116.6
+1610612764,2022-23,Washington,Wizards,WAS,East,Southeast,wizards,wizards,30,34,0.469,10,3,1961,2022,00,22022,19,113.1,11,44.1,13,25.2,15,113.3
+1610612765,2022-23,Detroit,Pistons,DET,East,Central,pistons,pistons,15,49,0.234,15,5,1948,2022,00,22022,27,111.4,20,42.6,27,22.7,29,119.1
+1610612766,2022-23,Charlotte,Hornets,CHA,East,Southeast,hornets,hornets,20,46,0.303,14,5,1988,2022,00,22022,26,111.8,8,45.0,16,24.9,26,117.9
